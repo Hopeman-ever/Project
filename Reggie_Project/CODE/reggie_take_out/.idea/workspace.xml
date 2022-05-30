@@ -48,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/hopeman/reggie/common" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/hopeman/reggie/entity" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -56,8 +56,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Project\Reggie_Project\CODE\reggie_take_out\src\main\java\com\hopeman\reggie\common" />
       <recent name="E:\Project\Reggie_Project\CODE\reggie_take_out\src\main\java\com\hopeman\reggie\entity" />
+      <recent name="E:\Project\Reggie_Project\CODE\reggie_take_out\src\main\java\com\hopeman\reggie\common" />
       <recent name="E:\Project\Reggie_Project\CODE\reggie_take_out\src\main\resources" />
     </key>
   </component>
@@ -103,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653744444177</updated>
       <workItem from="1653744446805" duration="8073000" />
-      <workItem from="1653789639048" duration="25097000" />
+      <workItem from="1653789639048" duration="32590000" />
     </task>
     <servers />
   </component>
