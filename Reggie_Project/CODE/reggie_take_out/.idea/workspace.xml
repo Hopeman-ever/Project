@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba9c7263-e68f-4811-83aa-a51df076e5f8" name="Default Changelist" comment="Redis环境的配置">
+    <list default="true" id="ba9c7263-e68f-4811-83aa-a51df076e5f8" name="Default Changelist" comment="缓存短信验证码">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hopeman/reggie/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hopeman/reggie/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hopeman/reggie/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hopeman/reggie/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hopeman/reggie/controller/DishController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hopeman/reggie/controller/DishController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hopeman/reggie/controller/DishController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hopeman/reggie/controller/DishController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +127,7 @@
       <workItem from="1654309147684" duration="6532000" />
       <workItem from="1654420068346" duration="8116000" />
       <workItem from="1654497608767" duration="28000" />
-      <workItem from="1654931547156" duration="3507000" />
+      <workItem from="1654931547156" duration="6040000" />
     </task>
     <task id="LOCAL-00001" summary="Redis环境的配置">
       <created>1654936875144</created>
@@ -137,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654936875144</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="缓存短信验证码">
+      <created>1654938264660</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654938264660</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +163,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Redis环境的配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="Redis环境的配置" />
+    <MESSAGE value="缓存短信验证码" />
+    <option name="LAST_COMMIT_MESSAGE" value="缓存短信验证码" />
   </component>
 </project>
